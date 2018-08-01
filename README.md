@@ -9,7 +9,7 @@ By default, it copies each table in a different worksheet.
 
 Python 3+
 
-Libraries:
+**Libraries:**
 
 `pip install mysql-connector` # MySQL Connector
 
