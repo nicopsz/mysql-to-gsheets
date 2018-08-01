@@ -12,6 +12,7 @@ Python 3+
 Libraries:
 
 `pip install mysql-connector` # MySQL Connector
+
 `pip install gspread oauth2client PyOpenSSL` # Neccesary to connect with Google Sheets API
 
 * [Getting Google API's credentials](http://gspread.readthedocs.io/en/latest/oauth2.html)
